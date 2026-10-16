@@ -63,3 +63,9 @@ Shows differences between your current changes and the last commit.
 
 git diff
 git diff HEAD
+
+## 11. git checkout
+Helps in creating and switching between repo's
+
+## 12 git reset
+git reset undoes commits or unstages files. git reset HEAD~1 undoes your last commit but keeps the changes. git reset --hard HEAD~1 undoes and deletes the changes completely.
